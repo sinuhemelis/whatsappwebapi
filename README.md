@@ -6,3 +6,4 @@ Pistas: usar la libreria cURL. hay codigo php y JS para este programa. se ejecut
 
 Documentación para leer:
 https://nksistemas.com/comando-curl-con-ejemplos/
+https://curl.se/docs/manual.html
